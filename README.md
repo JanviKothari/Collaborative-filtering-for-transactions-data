@@ -49,7 +49,7 @@ Here is an example of the transaction records. We find customer 0 purchased 1 it
 
 
 ***Things to be aware of about the data.***
-* The `trx_data.csv` is a log of user purcases, so:
+* The `trx_data.csv` is a log of user purchases, so:
     * Users might be found on multiple lines in the csv with different basket items attached.
     * The products "basket" is not listed in any particular order.
         * For example the following data points can be considered as equivelent

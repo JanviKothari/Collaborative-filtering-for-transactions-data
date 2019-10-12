@@ -1,5 +1,4 @@
 # Collaborative-filtering-for-transactions-data
-# Collaborative Filtering to recommend products to customers based on transaction history 
 
 ## Steps followed:
  * Transforming data

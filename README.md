@@ -16,22 +16,37 @@ There is a transaction history data in `trx_data.csv`. Each row represents a pas
 Here is an example of the transaction records. We find customer 0 purchased 1 item in the first log entery, and customer 1 purchased 10 items in the second log entery (some are duplicated).
 
 `customerId,products
+
 0,20
 
 1,2|2|23|68|68|111|29|86|107|152
+
 2,111|107|29|11|11|11|33|23
+
 1,164|227
+
 3,2|2
+
 6,144|144|55|267
+
 7,136|204|261
+
 3,79|8|8|48
+
 9,102|2|2|297
+
 10,84|77|286|259
+
 11,25|127|127
+
 0,18|183|288|171|289
+
 11,79|8|8|38
+
 1,2|2|20|20|20
+
 7,251|143
+
 `
 
 ***Things to be aware of about the data.***

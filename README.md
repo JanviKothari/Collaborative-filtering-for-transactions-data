@@ -17,6 +17,7 @@ Here is an example of the transaction records. We find customer 0 purchased 1 it
 
 `customerId,products
 0,20
+
 1,2|2|23|68|68|111|29|86|107|152
 2,111|107|29|11|11|11|33|23
 1,164|227
